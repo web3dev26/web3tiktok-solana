@@ -16,7 +16,7 @@ const Sidebar = ({
     index,
     likesAddress,
 }) => {
-
+console.log(onShowComments)
     const [liked, setLiked] = useState(false)
     const wallet = useWallet()
 

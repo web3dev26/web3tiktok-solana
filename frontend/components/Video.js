@@ -42,7 +42,7 @@ const Video = ({
         setShowCommentsModal(true)
     }
 
-
+    console.log(showCommentsModal, "OVER HERE")
   return (
     <div className={styles.wrapper}>
         <video 

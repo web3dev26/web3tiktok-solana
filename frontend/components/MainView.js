@@ -33,7 +33,7 @@ const MainView = () => {
 
     const program = getProgramInstance(connection,wallet)
 
-    const [tiktoks, setTikToks] = useState()
+    const [tiktoks, setTikToks] = useState([])
 
     const [newVideoShow, setNewVideoShow] = useState(false)
     const [ description, setDescription ] = useState('')
