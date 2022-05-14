@@ -1,7 +1,7 @@
 import React from 'react'
 import styles from '../styles/CommentCard.module.css'
 import Image from 'next/image'
-import heartOutlined from '../assets/heartOUtlined.svg'
+import heartOutlined from '../assets/heartOutlined.svg'
 import TimeAgo from 'javascript-time-ago'
 import en from 'javascript-time-ago/locale/en.json'
 
