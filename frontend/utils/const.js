@@ -5,7 +5,7 @@ import tiktok from './tiktok_clone.json'
 export const SOLANA_HOST = clusterApiUrl('devnet')
 
 export const TIKTOK_PROGRAM_ID = new PublicKey(
-    "84ycHNkVrLem741fXUGNTyufi2qNGMbLVcwkZDZmyNwb"
+    "Az4edEtU6JtghfueC4hS7Fo5fG3evPY5VUt6YbNHmhaN"
 )
 
 export const TIKTOK_IDL = tiktok
